@@ -4,7 +4,9 @@
 ![alt text](image-1.png)
 
 ## Video Demo - Basic Component Login
-<video controls src="menu_simple_part_one.mp4" title="Title"></video>
+<video controls src="menu_simple_part_one.mp4" title="Title"></video>c:\Users\programmer\Videos\Screen Recordings\menu_simple_part_one.mp4
+
+
 
 ## About Project
 This project is only demonstration about one simple login
